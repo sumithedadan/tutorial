@@ -1,4 +1,4 @@
-import sys
+tyikftoftgi
 
 num = {}
 num[0] = ['a','b','c','d','e','f']
